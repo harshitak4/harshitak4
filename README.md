@@ -5,7 +5,7 @@
 
 # About Me:
 I am a curious and driven Computer Science student who loves turning ideas into code. I enjoy solving complex problems, building scalable applications, and learning new technologies. I am always eager to collaborate on impactful projects and grow as a developer through hands-on experience.
-BTech Student | Java Developer | Open Source Contributor | GSoC 2026 Aspirant
+
 
 
 # 💻 Tech Stack:
